@@ -1,3 +1,0 @@
-- Github is a web platform for version control system using Git
-- It helps programmers all over the world to collaborate and develop softwares together very efficient
-- "Pull request" is the central feature of Github which allow to check changes before merging them

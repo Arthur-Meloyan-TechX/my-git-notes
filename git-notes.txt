@@ -1,4 +1,0 @@
-- 'Git add' command adds changes from working directory to the staging area
-- 'Git commit' used to save changes to the local repository
-- 'Git push' adds changes from local repository to the remote repository
-- Git is version control system which used by programmers for efficient development
